@@ -1,0 +1,480 @@
+.gPgROk {
+    position: relative;
+    font-family: Inter;
+    padding-top: 74px;
+}
+
+.gOUwkd {
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.hCIOmV {
+    width: calc(100% - 32px);
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 2;
+}
+
+.dhfvYQ .HeaderSubPage__InfoSectionWrapper-sc-1jb2yj2-1 {
+    padding: 42px 0px;
+}
+
+.hbEGfU {
+    display: grid;
+    grid-auto-flow: row;
+    row-gap: 24px;
+}
+
+.bwVUyX {
+    margin-block: 0px;
+    margin-inline: 0px;
+    font-family: Inter, sans-serif;
+    color: rgb(36, 41, 56);
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 700;
+}
+
+.hbEGfU .description {
+    color: rgb(36, 41, 56);
+}
+
+.eKxVfI {
+    display: grid;
+    grid-auto-flow: column;
+    -webkit-box-align: baseline;
+    align-items: baseline;
+    grid-template-columns: 14px 1fr;
+    column-gap: 8px;
+}
+
+.eKxVfI svg {
+    width: 100%;
+}
+
+.eKxVfI p {
+    color: rgb(36, 41, 56);
+}
+
+.kWGKDI {
+    margin-block: 0px;
+    margin-inline: 0px;
+    color: rgb(36, 41, 56);
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.dhfvYQ .sub-banner {
+    display: none;
+}
+
+.hCIOmV img {
+    max-width: 100%;
+}
+
+.hWJDrs {
+    display: grid;
+    grid-auto-flow: row;
+    row-gap: 16px;
+}
+
+.hCIOmV video {
+    max-width: 100%;
+    outline: none;
+}
+
+.gRsWyS {
+    display: grid;
+    row-gap: 12px;
+    grid-auto-flow: row;
+    align-self: center;
+}
+
+.gRsWyS img {
+    display: none;
+}
+
+.jdZDQq {
+    margin-block: 0px;
+    margin-inline: 0px;
+    color: rgb(36, 41, 56);
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}
+
+.kKfBbI {
+    margin-block: 0px;
+    margin-inline: 0px;
+    color: rgb(36, 41, 56);
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.iAPFqf {
+    padding: 24px 0px;
+}
+
+.hYGVAo {
+    height: 0.5px;
+    width: 100%;
+    background-color: var(--red-orange-color-wheel);
+}
+
+.ilZdRV {
+    display: grid;
+    grid-auto-flow: row;
+    row-gap: 16px;
+}
+
+.ilZdRV {
+    column-gap: 48px;
+    grid-template-areas: "info image";
+    grid-template-columns: 250px 1fr;
+}
+
+.jhEQfK {
+    display: grid;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 16px 0px;
+    grid-auto-flow: column;
+    column-gap: 24px;
+}
+
+.ciNOdK .ThreeDotSeparator__ThreeDotSeparatorWrapper-sc-sfzs0i-0 {
+    margin: 24px 0px;
+}
+
+.cVqgJy {
+    background-color: var(--red-orange-color-wheel);
+    width: 8px;
+    height: 4px;
+    border-radius: 50%;
+}
+
+.kJjyCw {
+    margin-block: 0px;
+    margin-inline: 0px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 24px;
+}
+
+.kJjyCw .bubble {
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.hZoXdq {
+    margin-block: 0px;
+    margin-inline: 0px;
+    font-family: Inter, sans-serif;
+    color: rgb(36, 41, 56);
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}
+
+.liMUVf {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.liMUVf svg {
+    width: 1em;
+    height: 1em;
+    margin-right: 8px;
+    display: none;
+}
+
+.JQSEX {
+    height: 48px;
+    flex-shrink: 0;
+    vertical-align: middle;
+    fill: var(--red-orange-color-wheel);
+}
+
+.JQSEX path {
+    stroke-width: 2px;
+}
+
+.hpQZcd {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.hpQZcd .nen-tang-cong-nghe__TableRow-sc-1bq5sks-4:not(:last-child) {
+    border-bottom: 1px solid rgb(143, 146, 161);
+}
+
+.osmsv {
+    padding: 16px 12px;
+}
+
+.dBzNSK {
+    margin-block: 0px;
+    margin-inline: 0px;
+    color: rgb(36, 41, 56);
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+}
+
+.hpQZcd {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.fkTbkG svg {
+    width: 20px;
+    height: 20px;
+}
+
+.hOmwZi {
+    margin-block: 0px;
+    margin-inline: 0px;
+    color: rgb(80, 84, 96);
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------*\/*-----------------------------------*\
+/*-----------------------------------*\
+  media-queries
+\*-----------------------------------*/
+@media (min-width: 458px) {
+    .gPgROk {
+        padding-bottom: 0px;
+    }
+
+}
+/*-----------------------------------*//*-----------------------------------*/
+@media (min-width: 600px) {
+   
+
+}
+
+/*-----------------------------------*//*-----------------------------------*/
+@media (min-width: 768px) {
+    .gOUwkd {
+        overflow: unset;
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+
+    .bwVUyX {
+        font-size: 32px;
+        line-height: 40px;
+        font-weight: 700;
+    }
+
+    .kWGKDI {
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+
+    .hWJDrs {
+        grid-template-columns: 1fr 250px;
+        column-gap: 48px;
+        grid-template-areas: "image info";
+    }
+
+    .hWJDrs > div {
+        grid-area: info / info / info / info;
+    }
+
+    .gRsWyS img {
+        display: block;
+    }
+
+    .jdZDQq {
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 700;
+    }
+
+    .kKfBbI {
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+
+    .ilZdRV > div {
+        grid-area: info / info / info / info;
+    }
+
+    .ciNOdK .ThreeDotSeparator__ThreeDotSeparatorWrapper-sc-sfzs0i-0 {
+        margin: 32px 0px;
+    }
+
+    .hZoXdq {
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 700;
+    }
+
+    .liMUVf svg {
+        display: inline-block;
+    }
+
+    .dBzNSK {
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 600;
+    }
+
+    .hOmwZi {
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 500;
+    }
+
+}
+
+/*-----------------------------------*//*-----------------------------------*/
+@media (min-width: 1024px) {
+    .gOUwkd {
+        overflow: unset;
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
+
+}
+
+/*-----------------------------------*//*-----------------------------------*/
+@media (min-width: 1135px) {
+    .dhfvYQ {
+        display: grid;
+        grid-auto-columns: auto max-content;
+        grid-auto-flow: column;
+        -webkit-box-align: center;
+        align-items: center;
+    }
+    
+    .dhfvYQ .HeaderSubPage__InfoSectionWrapper-sc-1jb2yj2-1 {
+        padding: 16px 0px;
+    }
+
+    .eKxVfI {
+        grid-template-columns: 16px 1fr;
+    }
+
+    .kWGKDI {
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400;
+    }
+
+    .dhfvYQ .sub-banner {
+        display: block;
+    }
+
+    .jdZDQq {
+        font-size: 32px;
+        line-height: 40px;
+        font-weight: 700;
+    }
+
+    .kKfBbI {
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 400;
+    }
+
+    .dBzNSK {
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: 600;
+    }
+
+    .hOmwZi {
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 500;
+    }
+
+}
+
+
+/*-----------------------------------*//*-----------------------------------*/
+@media (min-width: 1366px) {
+    .gPgROk {
+        padding-bottom: 0px;
+    }
+    
+    .gOUwkd {
+        padding-bottom: 0px;
+    }
+
+    .hCIOmV {
+        max-width: 1120px;
+    }
+
+    .bwVUyX {
+        font-size: 40px;
+        line-height: 48px;
+        font-weight: 700;
+    }
+
+    .hWJDrs {
+        grid-template-columns: 1fr 343px;
+    }
+
+    .iAPFqf {
+        padding: 32px 0px;
+    }   
+
+    .ilZdRV {
+        grid-template-columns: 343px 1fr;
+    }
+
+    .kJjyCw .bubble {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .hZoXdq {
+        font-size: 32px;
+        line-height: 40px;
+        font-weight: 700;
+    }
+}
+
+/*-----------------------------------*//*-----------------------------------*/
